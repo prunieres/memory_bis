@@ -7,4 +7,9 @@
      height: 199px;
      background-color: black;
      display:inline-block;
+     position:  relative;
+     left: -148px;
+}
+div {
+	display: inline;
 }
