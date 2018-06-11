@@ -22,3 +22,11 @@ img{
 	margin-right: 50px;
 	margin-bottom:  50px;
 }
+
+.visible{
+	display: block;
+}
+
+.invisible{
+	display: none;
+}
