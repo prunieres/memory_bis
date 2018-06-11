@@ -1,0 +1,24 @@
+
+img{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.one,.two,.three,.four,.five,.six,.seven,.heigt,.nine,.ten,.eleven,
+.twelve,.thirteen,.fourteen,.fifteen,.sixteen,.seventeen,.heigteen{
+	width:  141px;
+	height:  199px;
+	background-color:  black;
+	position:  absolute;
+	top: 0;
+	left: 0;
+}
+
+.global{
+	position:  relative;
+	display: inline-block;
+	width: 141px;
+	height: 199px;
+	margin-right: 50px;
+	margin-bottom:  50px;
+}
