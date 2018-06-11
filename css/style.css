@@ -8,10 +8,11 @@ img{
 .twelve,.thirteen,.fourteen,.fifteen,.sixteen,.seventeen,.heigteen{
 	width:  141px;
 	height:  199px;
-	background-color:  black;
+	background-color:  rgba(0,0,0,1);
 	position:  absolute;
 	top: 0;
 	left: 0;
+	display: block;
 }
 
 .global{
@@ -22,11 +23,6 @@ img{
 	margin-right: 50px;
 	margin-bottom:  50px;
 }
-
-.visible{
-	display: block;
-}
-
 .invisible{
-	display: none;
+	background-color: rgba(0,0,0,0);
 }
